@@ -1,4 +1,4 @@
-# Chat Application
+# Real Time Chat Application
 
 This is a chat application built with React, Firebase, and Vite. It supports real-time messaging, user authentication, and file storage.
 
